@@ -91,7 +91,7 @@ git merge feature/greet-user
 ### Step 1: See Changes Over Time
 
 ```bash
-git log --oneline --graph
+git log
 ```
 ----------
 
